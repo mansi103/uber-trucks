@@ -1,0 +1,18 @@
+[
+    {"sourceLocation":"delhi",
+        "destinationLocation":"ghuwati",
+        "category":"Refrigerated",
+        "load":"43",
+        "startDateTime":"2019-08-09T05:05",
+        "biddingAmount":"4000",
+        "result":"accepted"
+        },
+        {"sourceLocation":"gurgoan",
+            "destinationLocation":"noida",
+            "category":"Non Refrigerated",
+            "load":"50",
+            "startDateTime":"2019-08-20T05:05",
+            "biddingAmount":"5000",
+            "result":"rejected"
+            }
+    ]

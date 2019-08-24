@@ -1,0 +1,78 @@
+#bidResultTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 160px;
+  }
+  
+  #bidResultTable td, #bidResultTable th{
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #bidResultTable tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #bidResultTable tr:hover{background-color: #ddd;}
+  
+  #bidResultTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #00BFFF;
+    /*background-color: #4CAF50;*/
+    color: white;
+  }
+  /*#editprofilecustomer_details{
+  margin-left:25%
+}*/
+.sidebar{
+ margin: 0;
+ padding: 0;
+ width: 150px;
+ background-color:#002147;
+ position: fixed;
+ height: 100%;
+ overflow: auto;
+}
+ul  {
+ list-style: none;
+ color:red;
+}
+.sidebar a{
+ color:black;
+}
+div#edit1{
+ 
+ height:20px;
+ width:150px;
+ display:block;
+ background-color:lightseagreen;
+ color:white;
+}
+a.sidebar {
+height:60px;
+ display: block;
+ color: black;
+ padding: 16px;
+ text-decoration: none;
+}
+button{
+  margin:auto;
+  display:block;
+}
+
+/* BUTTON STYLES */
+button{
+  padding:16px 32px;
+  font-family:helvetica;
+  font-size:16px;
+  font-weight:100;
+  color:#fff;
+  background: #587286;
+  border:0;
+  font-weight:100;
+}
+button:hover{
+  background: #3B5C76;
+}
+/* END OF BUTTON STYLES */

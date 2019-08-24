@@ -1,0 +1,9 @@
+[
+    {"sourceLocation":"delhi",
+        "destinationLocation":"ghuwati",
+        "category":"Refrigerated",
+        "load":"43",
+        "startDateTime":"2019-08-09T05:05",
+        "biddingAmount":"4000",
+        "result":"accepted"
+        }]
